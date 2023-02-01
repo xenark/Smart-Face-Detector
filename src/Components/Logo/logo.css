@@ -1,0 +1,15 @@
+.logo {
+    background: -webkit-linear-gradient(left, rgb(107, 107, 216) 0%,  rgb(189, 8, 186) 100%);	
+    max-width: 150px;
+}
+
+.logo .tilt {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo .tilt img {
+width: 100px;
+}

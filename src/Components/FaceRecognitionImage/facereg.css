@@ -1,0 +1,24 @@
+.face {
+    width: fit-content !important;
+    height: fit-content !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+    position: relative;
+    border: 5px inset rgb(0, 132, 255)
+}
+
+.face img{
+    width: clamp(150px, 200px, 300px);
+}
+
+
+.face section {
+    position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}

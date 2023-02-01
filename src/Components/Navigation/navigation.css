@@ -1,0 +1,9 @@
+.nav {
+    background: rgb(8, 201, 205);
+    width: fit-content;
+  }
+.inres {
+    display: flex;
+    width: fit-content;
+    margin-left: auto;
+  }

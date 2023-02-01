@@ -1,0 +1,17 @@
+.cover {
+    margin: 0 auto;
+}
+
+input[type=submit] {
+    background: none;
+    padding: .3rem 1rem;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type=submit]:hover {
+    background: rgb(8, 201, 205);
+    padding: .3rem 1.5rem;
+    color: #fff;
+    transition: 0.3s ease-in-out;
+}
